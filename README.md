@@ -60,6 +60,7 @@ r2=metrics.r2_score(y_test,y_pred)
 r2
 
 dt.predict([[5,6]])
+```
 
 ## Output:
 ![71](https://user-images.githubusercontent.com/94506182/204435136-76019657-cd1c-4727-a3c4-60af75263d5d.png)
